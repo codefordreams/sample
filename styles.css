@@ -1,0 +1,62 @@
+body                    {background-color: rgb(236, 236, 236);}
+#header                 {padding-top: 0px;
+                        padding-bottom: 0px;}
+
+.behind                 {font-family:'Montserrat', sans-serif;
+                        font-weight: lighter;
+                        font-size: 15px;}
+
+#main .carousel-inner   {max-height: 70vh;
+                        object-fit: cover;
+                        filter: opacity(90%);
+                        filter: grayscale(70%);}
+
+.carousel               {position: relative;}
+
+.carousel .overlay      {position: absolute;
+                        top: 0;
+                        bottom: 0;
+                        left: 0;
+                        right: 0;
+                        background-color: rgba(0,0,0,0.5);
+                        color:white;}
+
+.carousel .overlay .container,
+.carousel .overlay .row  {height: 100%;}
+
+.speaker-syntax          {font-family: 'Nixie One', cursive;
+                         font-size: larger;}
+
+.text-speaker           {color:#DB3545 !important;}
+
+.btn-success-green       {background-color:  #03af4b!important;
+                         border: none;
+                         color: white;}
+.btn-success-green:hover {background-color: #04e762 !important;}
+
+.navbar-brand           {font-size: 30px; 
+                        color: white; 
+                        font-family: 'Nixie One', cursive;
+}
+
+.title-1                {margin-bottom: 0;}
+
+.orator                 {object-fit: cover;}
+
+#place-time             {background-color: black; color: gray;}
+
+#place-time img         {max-width: 100%;}
+
+#footer a               {color: white; text-decoration: none; font-weight: lighter;}
+
+#footer                 {background-color: #2f2d2e; 
+                         font-family: 'Nixie One', cursive;
+                        }
+
+.btn-2                  {margin-left: 32px; margin-top: 20px;}
+
+.btn-dark-blue          {background-color: black; 
+                        color: white;}
+.modal-uno              {background-color: rgb(236, 236, 236);}
+.modal-cabecera         {background-color: #01295f; 
+                        color: white;}
