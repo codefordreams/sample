@@ -25,7 +25,8 @@ body                    {background-color:black}
 .carousel .overlay .row  {height: 100%;}
 
 .speaker-syntax          {font-family: 'Nixie One', cursive;
-                         font-size: larger;}
+                         font-size: larger;
+                        font-weight: bold}
 
 .text-speaker           {color:#DB3545 !important;}
 
