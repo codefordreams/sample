@@ -38,7 +38,7 @@ body                    {background-color:black}
                         color: white; 
                         font-family: 'Nixie One', cursive;
 }
-
+.alto-card              {background-color: #3C4043; color: white;}
 .title-1                {margin-bottom: 0;}
 
 .orator                 {object-fit: cover;}
